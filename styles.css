@@ -1,0 +1,43 @@
+
+
+.navbar {
+padding-left:  70px;
+}
+
+
+.nav-link {
+  margin-right: 30px;
+}
+
+.myName {
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+
+.picture-section {
+  padding-left: 70px;
+  padding-top: 50px;
+
+}
+.myParagraph {
+  line-height: 1.5;
+}
+
+.picture1 {
+  width: 50%;
+
+}
+.picture1div {
+  padding-top: 50px;
+}
+
+.btn {
+  margin-top: 50px;
+  margin-right: 35px;
+}
+
+.myHr {
+border: dotted #7f7f7f 6px;
+border-bottom: none;
+width: 7%;
+}
