@@ -4,6 +4,18 @@
 padding-left:  70px;
 }
 
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.brand {
+  color: #06bc9b;
+}
+
+.hero-btn {
+  animation-delay: 0.8s;
+}
 
 .nav-link {
   margin-right: 30px;
@@ -12,6 +24,10 @@ padding-left:  70px;
 .myName {
   font-weight: bold;
   padding-bottom: 30px;
+  color: #06bc9b;
+}
+.pro {
+  text-decoration: underline;
 }
 
 .picture-section {
@@ -21,6 +37,7 @@ padding-left:  70px;
 }
 .myParagraph {
   line-height: 1.5;
+  color: #7f7f7f;
 }
 
 .picture1 {
@@ -31,7 +48,7 @@ padding-left:  70px;
   padding-top: 50px;
 }
 
-.btn {
+.btn1 {
   margin-top: 50px;
   margin-right: 35px;
 }
@@ -40,4 +57,95 @@ padding-left:  70px;
 border: dotted #7f7f7f 6px;
 border-bottom: none;
 width: 7%;
+margin-bottom: 4rem;
+}
+.second-div {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 9%;
+  padding-bottom: 3rem;
+  text-align: center;
+  transition: 1s;
+}
+
+.second-div:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+.myPic {
+  width: 20%;
+  padding: 3% 0 5% ;
+}
+
+.myH5 {
+  font-size: 2rem;
+  padding: 0 10%;
+  color: #7f7f7f;
+}
+.myHr2 {
+border: dotted #7f7f7f 6px;
+border-bottom: none;
+width: 7%;
+margin-bottom: 4rem;
+margin-top: 2rem;
+}
+
+.thirddiv {
+  text-align: center;
+  padding: 1.5rem 5rem 5rem 5rem;
+  transition: 1s;
+}
+.thirdh2 {
+  font-weight: bold;
+ color: #06bc9b;
+ padding: 1rem 0 2rem;
+
+}
+
+.fab:hover {
+  color: #ffd3b4;
+}
+
+.thirdh3 {
+  font-weight: bold;
+ color: #06bc9b;
+ padding-bottom: 1rem;
+
+}
+
+.paragraph {
+  line-height: 1.5;
+  color: #7f7f7f;
+}
+
+.thirddiv:hover {
+  -ms-transform: scale(1.1); /* IE 9 */
+  -webkit-transform: scale(1.1); /* Safari 3-8 */
+  transform: scale(1.1);
+}
+
+
+.myHr3 {
+border: dotted #7f7f7f 6px;
+border-bottom: none;
+width: 7%;
+margin-bottom: 4rem;
+margin-top: 3rem;
+}
+
+.fab {
+  padding: 0 3rem 1.5rem;
+  color: #7f7f7f;
+}
+
+.footer {
+  text-align: center;
+  padding-bottom: 3rem;
+    color:#7f7f7f;
+}
+
+.at {
+  color:#7f7f7f;
 }
