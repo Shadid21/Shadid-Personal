@@ -1,0 +1,29 @@
+
+
+
+.contact {
+background-image: url("photos/background.png");
+background-repeat: no-repeat;
+background-size: auto;
+}
+
+.contact1 {
+  text-align: center;
+  height: 400px;
+}
+.contact2 {
+  text-align: center;
+  height: 400px;
+}
+
+.question {
+  padding-top:  2rem;
+  padding-bottom: 1rem;
+}
+.fas {
+  padding-top: 3rem;
+}
+
+.email-input {
+  margin: 0 3rem;
+}
